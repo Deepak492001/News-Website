@@ -2,7 +2,7 @@
 
 <p>A responsive web application that retrieves and displays news articles from various categories and sources using the News API.</p>
 
-<img src="path-to-your-screenshot.png" alt="News Web App Screenshot" width="600">
+<img src="news-website/assets/newssphere.png" alt="News Web App Screenshot" width="600">
 
 <h2>Table of Contents</h2>
 <ul>
